@@ -48,7 +48,7 @@ for running the example notebook and the unit tests.
 
 ## Unit Tests
 
-The algorithm has shown to accurately reproduce standard tables of two-sided normal tolerance
+The algorithm accurately reproduces tables of two-sided normal tolerance
 interval factors from standard sources, including the complete set of tables in
 ISO 16269-6:2014 Annex F. The unit tests included here represent a sampling of that
 reproduction for brevity.
