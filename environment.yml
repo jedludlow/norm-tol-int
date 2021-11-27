@@ -1,0 +1,9 @@
+name: norm-tol-int
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - notebook
+  - jupyterlab
+  - ipykernel
