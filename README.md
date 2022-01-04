@@ -2,6 +2,10 @@
 
 Exact algorithm for computing two-sided statistical tolerance intervals under a normal distribution assumption using Python.
 
+NOTE: This repository exists for historical purposes only. The code has been integrated into the
+[tolerance_interval_py](https://github.com/cjekel/tolerance_interval_py) project, and all
+future maintenance to the code will happen under that project.
+
 ## Methods
 
 The function `tolerance_factor` computes (by Gauss-Kronod quadrature)
